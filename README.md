@@ -1,9 +1,9 @@
 # typescript-batch48
 
 - Install Node.js
-- Install typescript
+- Install TypeScript
 ```bash
-npm i -g typescript  // npm install -g typescript
+npm i typescript  // npm install typescript
 ```
 - For project creation, you have to use the following command:
 ```bash
