@@ -17,7 +17,5 @@
 - how to open vs code in particular directory
 
 `
-
-	code .
-	
+code .	
 `
